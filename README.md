@@ -10,8 +10,8 @@ An end-to-end, ultra-low-power **TinyML Acoustic Classifier** deployed on an **A
 
 ## 🎥 Project Demonstrations
 <p align="center">
-  <video src="docs/assets/Frog_detection.mp4" width="45%" controls muted></video>
-  <video src="docs/assets/Dog_detection.mp4" width="45%" controls muted></video>
+  <video src="Docs/Assets/Frog_detection.mp4" width="45%" controls muted></video>
+  <video src="Docs/Assets/Dog_detection.mp4" width="45%" controls muted></video>
 </p>
 
 ---
