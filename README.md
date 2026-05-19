@@ -10,16 +10,15 @@ An end-to-end, ultra-low-power **TinyML Acoustic Classifier** deployed on an **A
 
 ## 🎥 Project Demonstrations
 
-<p align="center">
-  <a href="Docs/Assets/Dog_detection.mp4">
-    <img src="Docs/Assets/Model_evaluation.png" width="45%" alt="Watch Dog Demo"/>
-  </a>
-  <a href="Docs/Assets/Frog_detection.mp4">
-    <img src="Docs/Assets/Before_and_After.png" width="45%" alt="Watch Frog Demo"/>
-  </a>
-  <br/>
-  🗣️ <em>Click either preview image to open and watch the video demonstration play in a new tab!</em>
-</p>
+
+
+https://github.com/user-attachments/assets/1b135b02-853f-41b4-bdae-7d85a3d7a733
+
+
+
+https://github.com/user-attachments/assets/8e4ee548-c00f-4abc-9506-c85eb00ced65
+
+
 
 ---
 
