@@ -10,8 +10,8 @@ An end-to-end, ultra-low-power **TinyML Acoustic Classifier** deployed on an **A
 
 ## 🎥 Project Demonstrations
 <p align="center">
-  <video src="Docs/Assets/frog_detection.mp4" width="45%" controls muted></video>
-  <video src="Docs/Assets/dog_detection.mp4" width="45%" controls muted></video>
+  <video src="Docs/Assets/Frog_detection.mp4" width="45%" controls muted></video>
+  <video src="Docs/Assets/Dog_detection.mp4" width="45%" controls muted></video>
 </p>
 ---
 
@@ -107,7 +107,7 @@ The optimized network achieves a high classification accuracy on the test data, 
 
 ### Performance Overview
 <img src="Docs/Assets/Model_evaluation.png" width="400" alt="Confusion Matrix">
-<img src="Docs/Assets/Evaluation_metrix.png" width="400" alt="Confusion Matrix">
+<img src="Docs/Assets/Evaluation_metrics.png" width="400" alt="Confusion Matrix">
 
 * **Test Accuracy:** 95.74%
 * **F1-Score:** 0.96 (Primary metric selected to ensure balanced precision and recall across all categories)
