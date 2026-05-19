@@ -1,0 +1,11 @@
+*.ipynb_checkpoints
+__pycache__
+*.pyc
+.DS_Store
+*.ino.bak
+node_modules
+.venv
+venv/
+*.o
+*.a
+*.so
